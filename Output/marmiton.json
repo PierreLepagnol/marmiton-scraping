@@ -1,0 +1,187 @@
+[
+   {
+      "nom": "Salade César",
+      "attr": {
+         "tps": "20 min",
+         "nb_pers": "4",
+         "dif": "très facile",
+         "exp": "bon marché"
+      },
+      "ingredients": [
+         [
+            "2",
+            "coeurs de laitue",
+            " effeuillé"
+         ],
+         [
+            "25",
+            "g de parmesan",
+            " (copeaux)"
+         ],
+         [
+            "4",
+            "tranches de pain",
+            " écroûtées"
+         ],
+         [
+            "2",
+            "cuillères à soupe d'huile",
+            " "
+         ],
+         [
+            "1",
+            " oeuf",
+            " "
+         ],
+         [
+            "25",
+            "g de parmesan râpé",
+            " "
+         ],
+         [
+            "2",
+            "cuillères à café de câpres",
+            " "
+         ],
+         [
+            "1/2",
+            "cuillère à café de moutarde",
+            " "
+         ],
+         [
+            "1",
+            "trait de tabasco",
+            " "
+         ],
+         [
+            "",
+            "Citron",
+            " "
+         ],
+         [
+            "1",
+            "gousse d'ail",
+            " pelée"
+         ],
+         [
+            "15",
+            "cl d'huile",
+            " "
+         ],
+         [
+            "",
+            "Poivre",
+            " "
+         ],
+         [
+            "",
+            "Sel",
+            " "
+         ]
+      ],
+      "ustensils": {
+         "pinceau": "1",
+         "Saladier": "1",
+         "hachoir": "1",
+         "bol": "1"
+      }
+   },
+   {
+      "nom": "pizza carbonara",
+      "attr": {
+         "tps": "45 min",
+         "nb_pers": "1",
+         "dif": "très facile",
+         "exp": "bon marché"
+      },
+      "ingredients": [
+         [
+            "1",
+            " pâte à pizza",
+            " "
+         ],
+         [
+            "200",
+            "g de lardons fumés",
+            " ou nature"
+         ],
+         [
+            "200",
+            "g de crème fraîche",
+            " "
+         ],
+         [
+            "125",
+            "g de mozzarella",
+            " "
+         ],
+         [
+            "",
+            "Poivre",
+            " "
+         ],
+         [
+            "",
+            "Sel",
+            " "
+         ],
+         [
+            "1",
+            " jaune d'oeuf",
+            " "
+         ]
+      ],
+      "ustensils": {
+         "four": "1",
+         "poêle": "1",
+         "papiersulfurisé": "1"
+      }
+   },
+   {
+      "nom": "Pâtes carbonara presque comme des vraies",
+      "attr": {
+         "tps": "20 min",
+         "nb_pers": "6",
+         "dif": "très facile",
+         "exp": "bon marché"
+      },
+      "ingredients": [
+         [
+            "500",
+            "g de spaghetti",
+            " "
+         ],
+         [
+            "250",
+            "g de lardons",
+            " "
+         ],
+         [
+            "6",
+            " oeufs",
+            " "
+         ],
+         [
+            "",
+            "Parmesan",
+            " "
+         ],
+         [
+            "",
+            "Poivre",
+            " "
+         ],
+         [
+            "",
+            "Sel",
+            " "
+         ]
+      ],
+      "ustensils": {
+         "passoire": "1",
+         "casserole": "1",
+         "râpe": "1",
+         "fouet": "1"
+      }
+   }
+]
